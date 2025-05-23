@@ -10,6 +10,14 @@ I also used unordered_map to connect the product IDs to their stock and details 
 I solved the question by first taking the enquiries of each customer seperately and then for the optimal payoff for the customer in the given budget i applied the generic knapsack problem approach and to get the bill i went back through my purchases and made a bill out of them.<br>
 Then I made an update function to update the stock and take the loan, update the money accordingly, also I stored all the transactions.<br>
 Then I printed out all the transactions made today + the repayment of the loan and in the end the net profit made today.<br>
+
+The input should be given in the form:-<br>
+The first line contains the number of type of products P.<br>
+The second line contains the number of customers N<br>
+The next P lines contain the product_ID, quantity K, cost price C, sale price S of the products<br>
+The first line for each customer contains the number of queries of the customer m<br>
+The second line contains the budget B of the customer
+The next m lines contain each query consisting of product_ID and payoff value<br>
 INPUT EXAMPLE:-<br>
 3<br>
 1<br>
