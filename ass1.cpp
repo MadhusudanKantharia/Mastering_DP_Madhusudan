@@ -3,7 +3,7 @@ using namespace std;
 #define ll long long
 #define vll vector<long long>
 #define vll vector<long long>
-#define vin(V,n) for(ll i=0;i<n;i++){V.push_back(0);cin>>v[i];}
+#define vin(V,n) for(ll i=0;i<n;i++){V.push_back(0);cin>>V[i];}
 #define vout(V) for(auto &e:V){cout<<e<<" ";}cout<<endl;
 struct product{
     ll K;
