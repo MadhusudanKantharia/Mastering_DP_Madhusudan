@@ -2,7 +2,7 @@
 
 
 # Question 1
-<p>In the first question I created 3 of my own data_types for the question which are pretty straight forward<\p>
+In the first question I created 3 of my own data_types for the question which are pretty straight forward<br>
 struct product{} is for the details of a product 
 struct log{} is for storing transactions
 account{} is just to keep track of the stores balance of money and its loan
