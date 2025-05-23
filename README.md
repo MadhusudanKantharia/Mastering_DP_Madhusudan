@@ -2,8 +2,8 @@
 
 
 # Question 1
-In the first question I created 3 of my own data_types for the question which are pretty straight forward
-struct product{} is for the details of a product
+<p>In the first question I created 3 of my own data_types for the question which are pretty straight forward<\p>
+struct product{} is for the details of a product 
 struct log{} is for storing transactions
 account{} is just to keep track of the stores balance of money and its loan
 I also used unordered_map to connect the product IDs to their stock and details about sale price and cost price
