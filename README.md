@@ -29,3 +29,8 @@ c 2 5 6<br>
 a 6<br>
 b 4<br>
 c 9<br>
+
+
+## Question 2
+I did it similar to the way I did the previous problem, i mapped the upper bounds to a certain element of the DP grid<br>
+Still I was unable  to convert it into time complexity O(n)
